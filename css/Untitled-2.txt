@@ -1,0 +1,47 @@
+
+<html lang="en">
+    <head>
+
+
+
+    </head>
+    <body>
+        <p>
+            <button id="ButtonA">クリックしてね</button>
+
+        </p>
+        <script>
+            let buttonA = document.getElementById("buttonA");
+            let button = document.querySelector("#buttonA");
+            
+            let input = 
+            for(i = 0; i<=100; i++){
+                document.write(i + "こんにちは<br>");
+            var count = 100;
+            if(count >=10){
+                alert("10以上です")；
+            } else {
+                alert ("10より少ないです")；
+                ｝
+            //const A = {"あ"、"い”、”う”}；
+            const B = {
+                Name: "日商"
+            address
+            var aisatsu = "おはよう"；
+            let Name = "日商です"
+
+            console.log(Aisatsu, Name);
+            //alert(3+7);
+            //document.write("<h1>Javascriptはonです</h1>");
+                //var A = 1;
+                //A = A + 1;
+                //var A + 1;
+                console.log(A);
+                let B = 2;
+                B = B + 1;
+                let B = 2;
+                console.log(B);
+
+            </script>
+        </body>
+        </head>
